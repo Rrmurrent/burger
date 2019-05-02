@@ -1,5 +1,5 @@
 -- CREATE DATABASE burger_db;
--- USE ekv7q500bs251g7i;
+USE jh95tuiww7xin3yoi;
 
 CREATE TABLE burgers
 (
